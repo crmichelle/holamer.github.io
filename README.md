@@ -18,7 +18,3 @@
         <p id="respuestaAmor"></p>
     </header>
 
-    <script src="script.js"></script>
-</body>
-</html>
-
