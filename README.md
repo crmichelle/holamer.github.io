@@ -22,9 +22,3 @@
 </body>
 </html>
 
-    if (respuesta === 'si') {
-        respuestaAmor.innerText = 'Yo mucho más ❤️';
-    } else {
-        respuestaAmor.innerText = ':(';
-    }
-}
