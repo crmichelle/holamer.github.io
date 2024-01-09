@@ -1,4 +1,3 @@
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -18,4 +17,7 @@
         </div>
         <p id="respuestaAmor"></p>
     </header>
+
+</body>
+</html>
 
