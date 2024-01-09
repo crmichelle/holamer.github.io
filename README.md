@@ -1,4 +1,4 @@
-# holamer.github.io
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -14,9 +14,13 @@
         <div id="respuestas">
             <button onclick="responder('si')">Sí</button>
             <button onclick="responder('no')">No</button>
- 
-function responder(respuesta) {
-    var respuestaAmor = document.getElementById('respuestaAmor');
+        </div>
+        <p id="respuestaAmor"></p>
+    </header>
+
+    <script src="script.js"></script>
+</body>
+</html>
 
     if (respuesta === 'si') {
         respuestaAmor.innerText = 'Yo mucho más ❤️';
